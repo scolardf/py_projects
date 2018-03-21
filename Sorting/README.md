@@ -1,10 +1,10 @@
-#Implementations of different sorting algorithms
+# Implementations of different sorting algorithms
 Goes through all currently implemented algorithms
 
-##Running
+## Running
 - `python tester.py {number}`  (where 'number' is an integer)
 
-##Current:
+## Current:
 	- Bubble
 	- Quick
 	- Shell
